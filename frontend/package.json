@@ -13,6 +13,7 @@
     "@nuxt/image": "^1.9.0",
     "@nuxtjs/tailwindcss": "^6.13.2",
     "@pinia/nuxt": "^0.10.1",
+    "@types/three": "^0.174.0",
     "@vueuse/nuxt": "^13.0.0",
     "axios": "^1.8.3",
     "class-variance-authority": "^0.7.1",
@@ -25,6 +26,7 @@
     "shadcn-nuxt": "^1.0.3",
     "tailwind-merge": "^3.0.2",
     "tailwindcss-animate": "^1.0.7",
+    "three": "^0.174.0",
     "three.js": "^0.77.1",
     "vue": "^3.5.13",
     "vue-router": "^4.5.0"

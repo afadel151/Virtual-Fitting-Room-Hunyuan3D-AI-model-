@@ -4,6 +4,6 @@
 
 <template>
     <div>
-        Hello
+        <MeModelViewer />
     </div>
 </template>
